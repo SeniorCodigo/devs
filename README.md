@@ -1,6 +1,6 @@
 # sisidevs
 
-# Hi team, welcome to our new web page Sisidevs, just:
+# Hi team, welcome to our new web page devs, just:
 # npm i 
 
 # npm start
